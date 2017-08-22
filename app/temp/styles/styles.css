@@ -1,7 +1,20 @@
 body{
+<<<<<<< HEAD
   display:fle;
   color:#305650;
+=======
+  font-family: 'Roboto', sans-serif;
+  color: #000009;
+>>>>>>> fdcd7afbdbf69b0dffd01c629eb17e9c5c74c68d
   display:-webkit-box;
   display:-ms-flexbox;
   display:flex;
 }
+<<<<<<< HEAD
+=======
+
+img{
+  max-width:100%;
+  height:auto;
+}
+>>>>>>> fdcd7afbdbf69b0dffd01c629eb17e9c5c74c68d
