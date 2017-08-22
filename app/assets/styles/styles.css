@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-$mainBlue: #305650;
-body{
-  display:fle;
-  color:$mainBlue;
-  display:flex;
-}
-=======
-$mainRed: #000009;
-body{
-  font-family: 'Roboto', sans-serif;
-  color: $mainRed;
-  display:flex;
-}
-
-img{
-  max-width:100%;
-  height:auto;
-}
->>>>>>> fdcd7afbdbf69b0dffd01c629eb17e9c5c74c68d
+@import "normalize.css";
+@import "base/_global";
+@import "modules/_large-hero";
